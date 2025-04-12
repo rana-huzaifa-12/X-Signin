@@ -1,12 +1,47 @@
-# React + Vite
+# 🐦 Twitter Login UI Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, clean, and responsive **Twitter Login Page Clone** built with **React.js** and **Tailwind CSS**.  
+This project replicates the Twitter sign-in interface, complete with Google and Apple sign-in buttons, basic input validation, and beautiful design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## Expanding the ESLint configuration
+> Screenshot of the project UI:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Twitter Login Clone Screenshot](./Screenshot%20(project).png)
+
+---
+
+## ✨ Features
+
+- ✅ Built with **React.js** functional components
+- 🎨 Styled using **Tailwind CSS**
+- 📱 Fully responsive across devices
+- 💡 Basic input validation with alert messages
+- 🖼️ Clean and modern UI/UX design
+- ⚡ Quick setup and easy to deploy
+
+---
+
+## 🛠️ Installation & Setup
+
+To run this project locally, follow these steps:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# 2. Navigate into the project directory
+cd your-repo-name
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
+---
+
+## 💙 Credits
+Made with ❤️ by Rana Huzaifa
