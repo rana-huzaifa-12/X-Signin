@@ -30,10 +30,10 @@ To run this project locally, follow these steps:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/rana-huzaifa-12/X-Signin.git
 
 # 2. Navigate into the project directory
-cd your-repo-name
+cd X-Signin
 
 # 3. Install dependencies
 npm install
